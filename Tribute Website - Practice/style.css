@@ -1,0 +1,43 @@
+body {
+  background-color: #eeeeee;
+}
+
+#main {
+  margin-left: 50px;
+}
+
+#title {
+  font-size: 50px;
+  margin-bottom: 0;
+  margin-left: 50px;
+}
+
+#under-title {
+  font-style: italic;
+  margin-left: 50px;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  width: 55%;
+  border-radius: 10px;
+}
+
+#img-caption {
+  display: inline-block;
+  font-size: large;
+  margin: 0;
+  width: 55%;
+  text-align: start;
+}
+
+#list {
+  margin-bottom: 70px;
+}
+
+#pointer {
+  cursor: pointer;
+}
